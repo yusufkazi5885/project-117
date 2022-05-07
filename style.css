@@ -1,0 +1,39 @@
+body
+{
+    background-color: orange;
+}
+#score
+{
+    font-size: 25px;
+    margin-left: 500px;
+}
+#timer
+{
+    font-size: 25px;
+    margin-right: 500px;
+}
+#label
+{
+    color: aquamarine;
+    font-size: 30px;
+}
+#checking
+{
+    font-weight: bolder;
+}
+#checking1
+{
+    font-weight: bolder;
+}
+#label
+{
+    font-weight: bolder;
+}
+#show_sketch
+{
+    float: right;
+}
+h1
+{
+    font-weight: bold;
+}
